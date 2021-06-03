@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This being your Majesty's birth-day, I thought no time more proper than this, to return you thanks for your Majesty's speech, and more especially for declaring, that the Church of England is one of the greatest supports of the Protestant religion.</title>
+            <author>James, Elinor. ca. 1645-1719.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25209</idno><idno type="EEBO-CITATION">99888256</idno>
+  <idno type="VID">201061</idno>
+  <idno type="EEBO-PROQUEST">2240890538</idno>
+  
+            <idno type="STC">Wing J421aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[85]</idno>
+            <idno type="STC">ESTC R229231</idno>
+            <idno type="PROQUEST">ocm99888256</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888256e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25209)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201061)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[87])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This being your Majesty's birth-day, I thought no time more proper than this, to return you thanks for your Majesty's speech, and more especially for declaring, that the Church of England is one of the greatest supports of the Protestant religion.</title>
+                  <author>James, Elinor. ca. 1645-1719.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first three lines of text.</note>
+                  <note>Signed at bottom: Elinor James.</note>
+                  <note>Place and date of publication suggested by Wing (CD-ROM, 1996).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anti-Catholicism --  England --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Church and state --  England --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201061:1"/>
+            <p> THis being Your Majesty's <hi>Birth-Day,</hi> I thought no time more proper than this, to return you Thanks for Your Majesty's Speech, and more especially for declaring, <hi>That the Church of</hi> England <hi>is one of the greatest Supports of the</hi> Protestant Religion, <hi>and for the Defence whereof Your Majesty was ready again to venture your Life.</hi> Which was graciously said of Your Majesty, and for which I return Your Majesty Thanks; and indeed so She is, for She was, and is (and I hope ever will be) the only Bulwark against <hi>Popery;</hi> and that is the only cause that makes <hi>Roman Catholicks</hi> not to love her; and ill Men, and Men that cannot under<g ref="char:EOLhyphen"/>stand her, are always Plotting against her to do her Mischief, in incensing her Children against her, and perverting her Members; thinking to weaken her, that they may the better over-power her: But the Most High GOD doth Preserve her, therefore Men nor Devils shall not destroy her, neither shall the Gates of Hell prevail against her. It was the Unhappiness of my late So<g ref="char:EOLhyphen"/>veraign to be perswaded to alter her Government, which was the sole Cause of bringing Your Majesties hither to Vindicate her; and therefore I humbly beseech Your Majesties not to thrust out her Members, nor put the Woolfs to keep the Sheep; for I count those Men which have always disturbed the Peace of the Church, are not fit to come into her Government: For hath God done such great Things for any Congregation, as he hath done for this distressed and despised Church of <hi>England?</hi> For when the <hi>Presbyterians</hi> got Power, they got it by Deceit and Blood, and by Destroying the best of Kings, Your Majesties Grandfather, and then they thought the Church should die with him, and never rise again; but yet see the Miraculous Pro<g ref="char:EOLhyphen"/>vidence of God, in bringing in my Precious Soveraign King <hi>Charles</hi> the Second, and your Fa<g ref="char:EOLhyphen"/>ther and Uncle, without the shedding of Blood, tho' in humane Reason it seemed impossible, when the Godly sober Party had gotten it all into their own hands. I love Godliness, but hate when Men make it a Cloak, that makes me I cannot love <hi>Dissenters,</hi> till they repent of the Faults, and acknowledge the Sins of their Fathers; those that hated the name of a Bishop, and cried it was Popish (tho' Christ's Disciples Instituted them) yet they could dispence with their Lands: They did not own Kingly Authority, but they could have the Power of Kings, and destroy the Dignities of Kings and Princes; they did not make long Prayers to destroy Widows Houses only, but to destroy Three Kingdoms at once; and yet for all that, tho' they had Bishops Lands, and Lords Livings, yet God re-established his Church again, and for this Church I have been always very Zealous, and for its Government, for it's God's Government; therefore I often made Application to my late Soveraign, who is your Father and Uncle, and told him, <hi>That he should never be able to do what he designed, and that every step he trod towards</hi> Rome, <hi>must be untrod again;</hi> and thro' the Providence of God, my words was made true, by Your Highness's coming, and the whole Nation rejoyced at your coming, as a Reconciler, but not half the Nation thought You would have accepted of the Crown, as long as the King your Father was alive, but Established all according to your <hi>Declaration,</hi> by a Free Parliament, then Your Majesties would not have wanted Money, nor there would have been no War nor shed<g ref="char:EOLhyphen"/>ding of Blood; but since it's so, I beseech Your Majesty to forget your own Countrey and Fathers House, and study the Good and Welfare of this Nation, and Pray for the King Your Father, <hi>That God would Convert and Convince him, and establish him in his Truth, that he may be qualified for his Kingdom;</hi> and when he is so qualified to resign them freely. This will make you so Great and so Glorious, that Your latter end will be more Glorious than your beginning; <hi>Then all will Admire You for Your Piety and Vertue. And since Providence hath sent Your Ma<g ref="char:EOLhyphen"/>jesty hither to keep the Church of</hi> England <hi>from being imposed upon by Popery, I humbly beseech Your Majesty, That she should not be imposed on by any other: For methinks it is unkind that the Bishops should suffer for not Swearing, when Christ saith,</hi> Swear not at all; <hi>and those Pious Men who were Imprisoned for their Conscience, to lay down all for Your Sake who came to be their De<g ref="char:EOLhyphen"/>fender; surely Your Majesties needs not mistrust their Fidelity, for they who make Conscience of an Oath, they will make Conscience of their Word; they will engage for their good Behaviour, and I dare believe them: Therefore I beseech Your Majesties to be kind to the Arch-bishop and all the rest of the Bishops, if Your Majesties intend God should Bless You; for as Your Majesties doth by those Pious Men, so God will do by Your Majesties. The Lord Guide Your Majesties to Act here that you may be Eternally Happy, is the Prayer of</hi>
+            </p>
+            <closer>
+               <signed>Your Majesties Subject and Souls Well-Wisher, <hi>ELINOR JAMES.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
